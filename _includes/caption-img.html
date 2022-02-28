@@ -1,0 +1,9 @@
+{% assign image=include.image %}
+{% assign caption=include.caption %}
+{% assign alt=include.alt %}
+<figure>
+    <img src="{{ site.imagesurl }}{{ image }} " alt="{{ alt }}"  class="caption-img" />
+<figcaption>
+    {{ caption }}
+</figcaption>
+</figure>

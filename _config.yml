@@ -33,11 +33,18 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Conversion
+highlighter: rouge
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%Y-%m-%d"
+
+# image folders 
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/thumbs/"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
