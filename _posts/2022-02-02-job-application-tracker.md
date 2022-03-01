@@ -2,7 +2,7 @@
 layout: post
 title:  "Terminal Tool for Tracking Job Applications"
 date:   2022-02-02 09:30:00 -0800
-categories: tools
+categories: programming
 published: true
 lede: "Like any good software engineer, before I started my job search, I first needed to write my own software to track my progress."
 ---

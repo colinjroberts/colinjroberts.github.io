@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing a Joke"
 date:   2022-01-26 16:31:00 -0800
-categories: plotter-art
+categories: art
 published: true
 lede: "A small plotter art joke for an acquaintance using Elder Futhark."
 ---
