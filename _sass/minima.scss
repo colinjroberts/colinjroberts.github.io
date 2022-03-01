@@ -55,12 +55,16 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
-h1, h2, h3, h4 {
-  font-weight: 25%;
+h1, .home h2 {
+  font-weight: $base-font-weight * 2;
 }
 
 li h1, li h2, li h3, li h4 {
   margin: 0;
+}
+
+article h2, .home h2 {
+  margin-top: $spacing-unit * 1.2
 }
 
 // Update code fonts
