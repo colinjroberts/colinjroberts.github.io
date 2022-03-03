@@ -2,8 +2,8 @@
 layout: post
 title:  "CrossXwalk"
 date:   2022-01-01 05:05:05 -0800
-categories: plotter-art
-published: true
+categories: art
+published: false
 lede: "A crosswalk that signals more than walking - an interactive art project"
 ---
 
