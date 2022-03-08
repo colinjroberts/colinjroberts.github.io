@@ -178,4 +178,3 @@ The videos in the playlist above show the wait and walk signals we made that mat
 One of the other additions we added the second year were scheduled activities including meditation, workouts, and yoga. The crosswalk doesn't have the most soothing or even understandable voice, but these were pretty fun to make and to do at the event. The videos in the following playlist show one of each type of event. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLStnh-lzh70MBAYnKHYOwtR9-lSvARlde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
