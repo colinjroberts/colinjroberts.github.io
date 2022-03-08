@@ -73,3 +73,11 @@ pre, code {
   font-weight: $code-font-weight;
   line-height: $code-line-height;
 }
+
+img {
+  border: 1px solid lightgray;
+}
+
+figure {
+  font-style: italic
+}
