@@ -7,6 +7,10 @@ published: true
 lede: "The first step of building a web tool to improve my ability to type in Korean"
 ---
 
+This post is part of a series documenting the processes of building a web app to practice typing in Korean.
+- This post: Generating random "words" from a given input
+- Part 2: [Building the screen keyboard and basic UI]({% post_url 2022-03-07-korean-typing-practice-part2 %})
+
 A large part of my approach for learning Korean is accumulating vocab using [Anki](https://ankiweb.net/about). I prefer to type in my answers in Korean to help my spelling, but I am finding that I spend a lot of time hunting for keys. 
 
 My first step is to look for something that already exists. 
