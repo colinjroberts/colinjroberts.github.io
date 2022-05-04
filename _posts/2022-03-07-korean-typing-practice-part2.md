@@ -10,8 +10,8 @@ lede: "Part 2 of making a browser interface for a web tool to improve my ability
 This post is part of a series documenting the processes of building a web app to practice typing in Korean.
 - Part 1: [Generating random "words" from a given input]({% post_url 2022-02-28-korean-typing-practice-part1 %})
 - This post: Building the screen keyboard and basic UI
-- Part 3: [Porting Python to JS and testing]({% post_url 2022-03-21-korean-typing-practice-part3 %})
-
+- Part 3: [Porting sentence generation code from Python to JavaScript and testing it]({% post_url 2022-03-21-korean-typing-practice-part3 %})
+- Part 4: [Handling text as keys are pressed: Hangul vs Latin alphabet edition]({% post_url 2022-04-22-korean-typing-practice-part4 %})
 
 By the end of the last post, I had made a Python Flask app with a URL endpoint that takes a language, some letters, and a number and produces that many random "words" made from the letters provided. In this post, I make the following front end that uses that endpoint:
 

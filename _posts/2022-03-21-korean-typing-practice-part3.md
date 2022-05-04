@@ -11,6 +11,8 @@ This post is part of a series documenting the processes of building a web app to
 - Part 1: [Generating random "words" from a given input]({% post_url 2022-02-28-korean-typing-practice-part1 %})
 - Part 2: [Creating a visual English/Korean keyboard that responds to clicks and key presses]({% post_url 2022-03-07-korean-typing-practice-part2 %})
 - This post: Porting Python to JavaScript and testing it
+- Part 3: [Porting sentence generation code from Python to JavaScript and testing it]({% post_url 2022-03-21-korean-typing-practice-part3 %})
+- Part 4: [Handling text as keys are pressed: Hangul vs Latin alphabet edition]({% post_url 2022-04-22-korean-typing-practice-part4 %})
 
 At the end of the last post, my next step for getting a working MVP ( one that I can used to practice typing in Korean) was adding logic to compare what I type to the generated words on the screen. By that, I mean I wanted words presented to me, then as I type letters on my keyboard, the letters I type would be compared to the ones on the screen so I know whether or not I'm typing correctly.
 
