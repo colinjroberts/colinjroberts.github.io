@@ -7,7 +7,7 @@ layout: home
 
 I am a software engineer, educator, designer, maker, and undoubtedly many other things. I enjoy building tools that help people accomplish their goals quicker, more efficiently, and with delight. 
 
-I've built such tools at organizations like [Rainier Scholars](https://www.rainierscholars.org/) and [Pacific Science Center](https://www.pacificsciencecenter.org/). I tend to explore, learn, and use languages and tools that fit the need for the job. So far that has included Python, FileMaker, SQL, JavaScript, C++, MkDocs, R, QGIS, and git.
+I've built such tools at organizations like [ParentSquare](https://www.parentsquare.com/), [Remind](https://en.wikipedia.org/wiki/Remind), [Rainier Scholars](https://www.rainierscholars.org/) and [Pacific Science Center](https://www.pacificsciencecenter.org/). I tend to explore, learn, and use languages and tools that fit the need for the job. So far that has included Python, FileMaker, SQL, JavaScript, C++, MkDocs, R, QGIS, and git.
 
 When not doing the above, I fill my time reading, swing dancing, making 2-d plotter art, trying out new cookbooks, and vacuuming up corgi floof. 
 
