@@ -1,0 +1,9 @@
+{% assign image=include.image %}
+{% assign caption=include.caption %}
+{% assign alt=include.alt %}
+
+<figure>
+    <video class="grid-video" autoplay="" muted="" loop="" playsinline="">
+    <source src="{{ site.imagesurl }}{{ image }} " type="video/mp4">
+  </video>
+</figure>

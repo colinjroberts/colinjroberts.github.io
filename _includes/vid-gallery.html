@@ -1,0 +1,8 @@
+{% assign filenames=include.filenames | split: "," %}
+<div class ="video-gallery">
+{% for name in filenames %}
+      <video class="grid-video" autoplay="" muted="" loop="" playsinline="">
+        <source src="{{ site.imagesurl }}{{ name }} " alt="" type="video/mp4" class="vid-gallery" />
+      </video>
+ {% endfor %}
+</div>
